@@ -1,5 +1,4 @@
 # Advent Of Code 2023
-Before copy, pasting code, make sure to insert your own input
 ## Day 1
 ### Part 1:
 Day1\part1.py
