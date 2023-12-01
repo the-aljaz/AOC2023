@@ -1,7 +1,10 @@
 # Advent Of Code 2023
+Before copy, pasting code, make sure to insert your own input
 ## Day 1
 ### Part 1:
+Day1\part1.py
 ### Part 2:
+Day1\part2.py
 ## Day 2
 ### Part 1:
 ### Part 2:
