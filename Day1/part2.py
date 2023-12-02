@@ -45,5 +45,5 @@ if __name__ == "__main__":
     answer2 = part2(parsed_data)
 
     print("\n--- ANSWERS ---")
-    print(f"PART1 - The sum of all calibration values is {answer1}")
+    #print(f"PART1 - The sum of all calibration values is {answer1}")
     print(f"PART2 - The sum of all correct calibration values is {answer2}")
