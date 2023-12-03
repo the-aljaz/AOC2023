@@ -35,7 +35,7 @@ def part2(parsed_data):
     return total_value
 
 if __name__ == "__main__":
-    with open("Day1\input2.txt" , "r") as f:
+    with open("Day1\input.txt" , "r") as f:
         parsed_data = parse_input(f.read())
 
     print("--- PART 1 ---")
